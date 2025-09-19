@@ -149,5 +149,10 @@ Create a PR from your branch
 
 - Open your browser and visit 👉 [http://localhost:8080](http://localhost:8080)  
 - Login with an admin account you created in the database  
-- Start managing students (CRUD features available after login)  
+- Start managing students (CRUD features available after login)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
