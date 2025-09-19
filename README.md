@@ -142,6 +142,7 @@ git push origin feature-name
 
 ### 4. Open a Pull Request (PR)
 Go to the original repository on GitHub
+
 Create a PR from your branch
 
 ## 8. Using the Application
